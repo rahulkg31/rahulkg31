@@ -1,7 +1,4 @@
 <h2> Hi there 👋, I am Rahul !</h2>
-
-<hr style="border:1px"> </hr>
-
 <p>Data Scientist at <a href="https://scryanalytics.ai/">Scry Analytics</a>.</p>
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/rahulkg31/)
