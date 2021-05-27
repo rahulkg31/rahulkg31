@@ -21,12 +21,12 @@ rahul = {
 
 
 
-<a href="https://github.com/rahulkg31">
+<!-- <a href="https://github.com/rahulkg31">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkg31&hide=html,css&title_color=262626&text_color=262626&icon_color=262626&bg_color=f6f8fa" />
 </a>
 
 <a href="https://github.com/rahulkg31">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=rahulkg31&show_icons=true&line_height=27&count_private=true&title_color=262626&text_color=262626&icon_color=4AB097&bg_color=f6f8fa" alt="Rahul's GitHub Stats" />
-</a>
+</a> -->
 
 
